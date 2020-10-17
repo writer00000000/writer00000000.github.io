@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>작가의 블로그</title>
-    <link>/</link>
-    <description>Recent content on 작가의 블로그</description>
+    <title>meme on 작가의 블로그</title>
+    <link>/categories/meme/</link>
+    <description>Recent content in meme on 작가의 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 17 Oct 2020 20:08:51 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2020 20:08:51 +0900</lastBuildDate><atom:link href="/categories/meme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>조혜련과 태보의 저주</title>
       <link>/post/taebo/</link>
@@ -17,35 +17,6 @@
 -가사- 안녕하세요~~~~~!!!!!!!
 태보는 지금 전세계적으로 선풍적인 인기를 끌고 있는데요 태보란, 우리나라의 태권도와 복싱을 접목한 운동입니다~ 두달동안 태보를 했더니 조혜련이 이렇게 완벽한 몸매가 되었습니다. (와!!) 태보를 하루에 25분만 투자한다면 런닝머신 한 시간! 여러분도 하루에 25분만! 태보의 세계로 들어가봅시다! (와!!)
 JAB JAB JAB PUNCH HOOK! JAB JAB JAB PUNCH HOOK! JAB JAB JAB PUNCH HOOK! 따라만 하세요! 따라만 하세요! JAP JAP JAP PUNCH HOOK!</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/about/</link>
-      <pubDate>Sat, 17 Oct 2020 19:40:20 +0900</pubDate>
-      
-      <guid>/about/about/</guid>
-      <description>1.서후, 또는 작가, 또는 홀롤의 블로그.
-2.난해함.
-3.난잡함.
-4.번은 개인주의야
-5.단타하는 버릇이 있음.
-6.정신이 나감.
-7.내 실수로 블로그가 공중분해 될 수 있음.
-8.호로로ㅗ로로로로로롤ㄹ로ㅗㄹ로로로롤로로ㅗ로로롤
-9.줄없는 공백 주거라ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
-10.끝</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>/post/test/</link>
-      <pubDate>Sat, 17 Oct 2020 15:02:18 +0900</pubDate>
-      
-      <guid>/post/test/</guid>
-      <description>글 작성 실험.
-오오오옹ㅇㅇ 된다
-줄 바꾸려면 한칸 더 띄워야하는구나</description>
     </item>
     
   </channel>
