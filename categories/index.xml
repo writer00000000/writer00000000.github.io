@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 작가의 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 17 Oct 2020 15:02:18 +0900</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2020 19:40:20 +0900</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>소개</title>
+      <link>/categories/%EC%86%8C%EA%B0%9C/</link>
+      <pubDate>Sat, 17 Oct 2020 19:40:20 +0900</pubDate>
+      
+      <guid>/categories/%EC%86%8C%EA%B0%9C/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>wasans</title>
       <link>/categories/wasans/</link>

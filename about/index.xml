@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>작가의 블로그</title>
-    <link>/</link>
-    <description>Recent content on 작가의 블로그</description>
+    <title>Abouts on 작가의 블로그</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on 작가의 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 17 Oct 2020 19:40:20 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2020 19:40:20 +0900</lastBuildDate><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/about/</link>
@@ -23,17 +23,6 @@
 8.호로로ㅗ로로로로로롤ㄹ로ㅗㄹ로로로롤로로ㅗ로로롤
 9.줄없는 공백 주거라ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
 10.끝</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>/post/test/</link>
-      <pubDate>Sat, 17 Oct 2020 15:02:18 +0900</pubDate>
-      
-      <guid>/post/test/</guid>
-      <description>글 작성 실험.
-오오오옹ㅇㅇ 된다
-줄 바꾸려면 한칸 더 띄워야하는구나</description>
     </item>
     
   </channel>
