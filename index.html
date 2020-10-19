@@ -138,14 +138,31 @@
         
         
     </p>
-    <script src="https://utteranc.es/client.js"
-        repo="writer00000000/blog-comments"
-        issue-term="title"
-        label="comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
+    HOL_LOL
+
+    
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: '[9f9cf77089547afbbaaa]',
+    clientSecret: '3bf90a215595262f3b698aa48eb3ffb606938367]',
+    repo: 'https:\/\/github.com\/writer00000000\/writer00000000.github.io',
+    owner: 'writer00000000',
+    admin: ['writer00000000'],
+    id: location.pathname, 
+    distractionFreeMode: false 
+  });
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('gitalk-container').innerHTML = 'Gitalk comments not available by default when the website is previewed locally.';
+      return;
+    }
+    gitalk.render('gitalk-container');
+  })();
 </script>
+
 </footer>
 
 </body><link rel="stylesheet" href="/css/bootstrap.css">
